@@ -1,0 +1,375 @@
+<HTML><HEAD>
+<TITLE>☆海海在线℃☆ HAIGER&ONLINE</TITLE>
+
+<META content="海海在线,一个菜鸟的足迹在这里展现，本站采用js技术，DOS版本。" >
+<META Name="keywords" Content="海海在线,菜鸟,天堂F1,FBI007FK,H4IGE2,海雯@艾福壹，dos版">
+
+<STYLE>BODY {
+
+	FONT-SIZE: 10pt; CURSOR: default; COLOR: rgb(160,160,160); FONT-FAMILY: Fixedsys; BACKGROUND-COLOR: black;scroll=no
+
+}
+
+A {
+
+	FONT-SIZE: 10pt; CURSOR: default; COLOR: rgb(160,160,160); FONT-FAMILY: Fixedsys; BACKGROUND-COLOR: black; TEXT-DECORATION: none
+
+}
+
+A:hover {
+
+	TEXT-DECORATION: underline overline
+
+}
+
+.input {
+
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 10pt; BORDER-BOTTOM-COLOR: rgb(0,0,0); CURSOR: text; COLOR: rgb(160,160,160); FONT-FAMILY: Fixedsys; BACKGROUND-COLOR: black; BORDER-RIGHT-WIDTH: 0px
+
+}
+
+</STYLE>
+
+
+
+<META content="Microsoft FrontPage 6.0" name=GENERATOR>
+
+
+
+</HEAD><BODY  onunload="MM_popupMsg('怎么没找到进入网站的办法?键入dir回车就显示目录了')" onload=flash()><OBJECT id=closes type=application/x-oleobject 
+
+classid=clsid:adb880a6-d8ff-11cf-9377-00aa003b7a11><PARAM NAME="Command" VALUE="Close"></OBJECT>
+
+<script>
+
+function getfocus(){
+
+document.shuru.dos.focus()
+
+if(event.keyCode==13){
+
+judge();
+
+document.shuru.dos.blur();}
+
+}
+
+document.onkeydown=getfocus;
+
+</script>
+
+<SCRIPT language=javascript>  
+  
+  
+  
+var ttime=0,tip='_',zhi  
+  
+  
+  
+function flash(){  
+  
+  
+  
+ttime++  
+  
+  
+  
+if(ttime%2==1){  
+  
+  
+  
+tip=''  
+  
+  
+  
+var gett=document.shuru.dos.value  
+  
+  
+  
+var len=gett.length;  
+  
+  
+  
+document.shuru.dos.value=gett.substring(0,len-1)+tip}  
+  
+  
+  
+else{  
+  
+  
+  
+tip='_'  
+  
+  
+  
+document.shuru.dos.value=document.shuru.dos.value+tip}  
+  
+  
+  
+if(ttime>100)  
+  
+  
+  
+ttime=0  
+  
+  
+  
+zhi=setTimeout("flash()",200)  
+  
+  
+  
+}  
+  
+  
+  
+function shutdown(){  
+  
+  
+  
+window.open('http://blog.csdn.net/h4ige2/')  
+  
+  
+  
+closes.Click()  
+  
+  
+  
+}  
+  
+  
+  
+function errorcommand(){  
+  
+  
+  
+document.shuru.dos.value='错误的命令或文件名 请输入dir查询 '  
+  
+  
+  
+}  
+  
+  
+  
+function cls(){  
+  
+  
+  
+word.style.display="none"}  
+  
+  
+  
+function helpyou(){  
+  
+  
+  
+word.style.display=""}  
+  
+  
+  
+function win(){  
+  
+  
+  
+window.open('main.htm')  
+  
+  
+  
+}  
+function dk(){  
+  
+  
+  
+window.open('http://web.cy07.com/nethack/xp_ts/mstsc.htm')  
+  
+  
+  
+}  
+  
+  
+function find(){  
+  
+  
+  
+window.open('http://www.baidu.com/')  
+  
+  
+  
+}  
+  
+  
+  
+function html(){window.open('thatsky.htm')}  
+function sea(){window.open('http://www.ip138.com/ips.asp')}  
+  
+  
+  
+function search(){  
+  
+  
+  
+var dosearch=prompt("请输入你所要查询的qq号",'')  
+  
+  
+  
+var doit="http://search.tencent.com/cgi-bin/friend/user_show_info?ln="+dosearch;  
+  
+  
+  
+window.open(doit)}  
+function searc(){  
+var dosearch=prompt("请输入你所要查询的网页或内容",'')  
+var doit="http://ip.loveroot.com/index.php?job=search"+dosearch;  
+window.open(doit)}  
+  
+  
+  
+function judge(){  
+  
+  
+  
+var menu=document.shuru.dos.value;  
+  
+  
+  
+if(menu=='bbs')  
+  
+  
+  
+shutdown()  
+  
+  
+  
+else if(menu=='dir')  
+  
+  
+  
+helpyou()  
+  
+  
+  
+else if(menu=='cls')  
+  
+  
+  
+cls()  
+  
+  
+  
+else if(menu=='win')  
+  
+  
+  
+win()  
+  
+  
+  
+else if(menu=='find')  
+  
+  
+  
+find()  
+  
+  
+  
+else if(menu=='html')  
+  
+  
+  
+html()  
+else if(menu=='dll')  
+  
+  
+searc()  
+  
+  
+else if(menu=='3389')  
+  
+  
+dk()  
+  
+  
+else if(menu=='qq')  
+  
+  
+  
+search()  
+else if(menu=='ip')  
+  
+  
+  
+sea()  
+  
+  
+else  
+  
+  
+  
+errorcommand()  
+  
+  
+  
+}  
+  
+</SCRIPT>  
+  
+<script language="JavaScript">  
+  
+<!--  
+  
+function MM_popupMsg(msg) { //v1.0  
+  
+  alert(msg);  
+  
+}  
+  
+//-->  
+  
+</script>  
+  
+  
+  
+  
+  
+  
+  
+<BR>  
+  
+<DIV id=""   
+  
+style="WIDTH: 760px; POSITION: absolute">HAIGER&ONLINE(R)&nbsp;Personal&nbsp;WebPage   
+  Dos<BR>  
+  	(C)版权所有 2005-2008 FBI007FK HEAVEN-F1 corp.<BR><BR>  
+  
+  <DIV id=word   
+  
+style="DISPLAY: none"> <br>  
+    <br>  
+    我们的主页(黑客文章、软件下载) 名誉站长 [海海在线℃] WIN&nbsp;&nbsp;&nbsp; 2005-06-08&nbsp;&nbsp;#<br>
+    我们的网络(技术论坛、原创精华) 技术站长 [FBI007FK]&nbsp;&nbsp; BBS&nbsp;&nbsp;&nbsp; 2005-06-08&nbsp;&nbsp;#<br> 
+ 
+<br>dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;显示本网站目录  
+  
+&nbsp;&nbsp;<BR>  
+    win&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入窗口界面我的主页<BR>  
+    bbs &nbsp&nbsp&nbsp;&nbsp; 表示退出本页进入我的留言板(技术留言)<BR>  
+    cls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表示清屏关闭目录显示&nbsp;<BR>  
+    find &nbsp;&nbsp;&nbsp;&nbsp;表示启动百度搜索器<BR>  
+    html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flash动态html版更酷<BR>  
+3389&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表示启动3389网页版入侵利器<BR>  
+qq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 表示qq好友资料搜索<BR>  
+    ip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表示启动追捕在线系统 增加了Tracer功能</DIV>  
+  
+<FORM name=shuru action=javascript:judge()>  
+    C:\Haiger@online&gt;   
+    <INPUT class=input   
+  
+onblur=flash() onfocus="this.value='';clearTimeout(zhi)" size=60   
+  
+value="  " name=dos title="用鼠标点后键入dir回车"> <INPUT style="DISPLAY: none" type=submit value=submit hidden>   
+  
+</FORM></DIV></BODY>
+<!-- In order to guarantee the legitimate rights and interests of HEAVEN-F1 , are leaving one's own footprint evenly here, a green hand has been diligent all the time ! . -->
+
+
+
+</HTML>
